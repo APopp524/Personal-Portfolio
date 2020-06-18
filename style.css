@@ -1,52 +1,59 @@
+
 /* index.html */
 
+.bg-1 {
+  background-color: #4f9b66;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  
+}
 
+.bg-2 {
+  background-color: #a4c8b4;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
 
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.navbar-brand {
+  display: inline-block;
+  padding: 5px;
+  font-family: 'Lato', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+#navbarNav {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
 
 
 
 /* portfolio.html */
 
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-  }
-  
-  .bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-  }
-  
-  .top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-  }
-  
-  .top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-  }
-  
-  .bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-  }
-  
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+.card {
+  width: 400px;
+  height: 400px;
+  color: #ffffff;
+}
+
+.card-title{
+  background-color: black;
+}
 
 
 
 
+/* contact/html */
 
-/* contact/html /*
+.contact1-form {
+  position: relative;
+  margin-right: auto;
 
+}
