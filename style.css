@@ -1,11 +1,8 @@
 /* Menu Hamburger */
-    body
-    {
-    margin: 0;
-    padding: 0;
-    color: #c5c6c7;
-    font-family: "Avenir Next", "Avenir", sans-serif;
-    }
+html{
+    background-color: #0b0c10;
+    font-family:'Oxygen', sans-serif;
+}
 
     #menuToggle
     {
@@ -45,8 +42,8 @@
     
     cursor: pointer;
     
-    opacity: 0; /* hide this */
-    z-index: 2; /* and place it over the hamburger */
+    opacity: 0;
+    z-index: 2;
     
     -webkit-touch-callout: none;
     }
@@ -125,6 +122,7 @@
     {
     padding: 10px 0;
     font-size: 22px;
+    font-family:'Oxygen', sans-serif;
     }
 
     #menuToggle input:checked ~ ul
@@ -137,6 +135,7 @@
         *{
             padding: 0;
             margin: 0;
+            border-radius: 0;
           }
           body{
             background: #0b0c10;
@@ -158,14 +157,17 @@
             font-size: 100px;
             font-weight: 700;
             letter-spacing: 2px;
-            word-spacing: px;
+            word-spacing: 4px;
             margin-bottom: 20px;
             background: #0b0c10;;
             position: relative;
             animation: text 2.5s 1;
+            font-family:'Oxygen', sans-serif;
           }
           .text2{
             font-size: 30px;
+            font-family:'Oxygen', sans-serif;
+            word-spacing: 2px;
             color: #66fcf1;
           }
           @keyframes text {
@@ -178,3 +180,57 @@
               margin-bottom: -40px;
             }
           }
+
+
+          /* Portfolio Cards & Contact Page */
+          
+          .card-deck {
+              margin-left: auto;
+              margin-right: auto;
+              margin-top: 360px;
+              border-radius: 0;
+              font-family:'Oxygen', sans-serif;
+          }
+
+          #card-deck-2{
+              margin-top: auto;
+              border-radius: 0;
+              font-family:'Oxygen', sans-serif;
+          }
+
+          .btn-main {
+            display: inline-block;
+            font-size: 1.3rem;
+            font-family:'Oxygen', sans-serif;
+            color: #000;
+            background-color: transparent;
+            text-decoration: none;
+            padding: 15px 20px;
+            box-shadow: none;
+            border: 2px solid #66fcf1;
+            color: #fff;
+            border-radius: 3px;
+            transition: .4s;
+            outline: none;
+        }
+        
+        .btn-main:hover,
+        .btn-main:focus {
+            background: #45a29e;
+            color: #fff;
+            box-shadow: none;
+            transform: scale(.9);
+            outline: none !important;
+        }
+
+        .mb-4{
+            font-family:'Oxygen', sans-serif;
+            margin-left: 400px;
+            margin-right: 25px;
+            margin-top: 200px;
+        }
+
+
+                /* Social Media Topbar */
+
+                
