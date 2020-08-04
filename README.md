@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-This is my Portfolio website, when you open it up it has 3 main tabs on the NavBar. The 3 pages are the Home/About. Portfolio, and the Contact page. Along the side of each page I added a social media sidebar to all of my social media links. Here is some pictues of the site below and a link. 
+Welcome to my website! The opening has my social media links in the top right corner and a menu bar that drops down in the left corner. From there you can check my About Me, Portfolio and Contact pages. Check it out!
 
 https://apopp524.github.io/Responsive-Portfolio/
 
