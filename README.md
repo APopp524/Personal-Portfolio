@@ -4,4 +4,4 @@ This is my Portfolio website, when you open it up it has 3 main tabs on the NavB
 https://apopp524.github.io/Responsive-Portfolio/
 
 
-![Screen Shot 2020-08-04 at 5 19 54 PM 3](https://user-images.githubusercontent.com/64044377/89351120-f437bd00-d676-11ea-8e5e-9f768a960a5b.png)
+![Screen Shot 2020-08-04 at 5 19 54 PM 3](https://user-images.githubusercontent.com/64044377/89351168-0dd90480-d677-11ea-8e11-c572b532f960.png)
