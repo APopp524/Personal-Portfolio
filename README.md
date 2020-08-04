@@ -4,5 +4,4 @@ This is my Portfolio website, when you open it up it has 3 main tabs on the NavB
 https://apopp524.github.io/Responsive-Portfolio/
 
 
-<img src="Final Website/Screen Shot 2020-06-19 at 7.25.08 PM.png" width="250"> | <img src="Final Website/Screen Shot 2020-06-19 at 7.25.12 PM.png" width="250"> | <img src="Final Website/Screen Shot 2020-06-19 at 7.25.15 PM.png" width="250"> |
-
+![Screen Shot 2020-08-04 at 5 19 54 PM 3](https://user-images.githubusercontent.com/64044377/89351120-f437bd00-d676-11ea-8e5e-9f768a960a5b.png)
