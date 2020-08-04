@@ -224,19 +224,65 @@
         }
 
         #contact{
-            font-family:'Oxygen', sans-serif;
-            text-align: center;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 100%;
-            padding-top: 200px;
+          font-family:'Oxygen', sans-serif;
+          padding: 4%;
+          height: 400px;
         }
 
-        #contact-h1{
-            padding-bottom: 40px;
-            color: #66fcf1;
+        #contact p{
+
+            padding-right: 15px;
+            font-size: 15px;
+            margin-top: 60px;
         }
+
+        .col-md-3{
+          background: #45a29e;
+          padding: 4%;
+          border-top-left-radius: 0.5rem;
+          border-bottom-left-radius: 0.5rem;
+        }
+        .contact-info{
+          margin-top:10%;
+        }
+        
+        .contact-info h2{
+          margin-bottom: 10%;
+        }
+        .col-md-9{
+          background: #fff;
+          padding: 3%;
+          border-top-right-radius: 0.5rem;
+          border-bottom-right-radius: 0.5rem;
+        }
+        .contact-form label{
+          font-weight:600;
+        }
+
+        #contact .btn-default {
+          display: inline-block;
+          font-size: 1.3rem;
+          font-family:'Oxygen', sans-serif;
+          color: #000;
+          background-color: #45a29e;
+          text-decoration: none;
+          padding: 15px 20px;
+          box-shadow: none;
+          color: #ffffff;
+          border-radius: 3px;
+          transition: .4s;
+          outline: none;
+      }
+      
+      #contact .btn-default:hover,
+      #contact .btn-default:focus {
+          background: #45a29e;
+          color: #fff;
+          box-shadow: none;
+          transform: scale(.9);
+          outline: none !important;
+      }
+        
 
 
                 /* Social Media Topbar */
