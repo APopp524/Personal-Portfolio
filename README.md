@@ -1,4 +1,4 @@
-# Responsive-Portfolio
+# My-Portfolio
 Welcome to my website! The opening has my social media links in the top right corner and a menu bar that drops down in the left corner. From there you can check my About Me, Portfolio and Contact pages. Check it out!
 
 https://apopp524.github.io/Responsive-Portfolio/
